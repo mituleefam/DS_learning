@@ -1,5 +1,5 @@
-# 💻 AI & DS learning repository
-This repository contains a collection of beginner-friendly projects in AI & DS, created purely for learning purposes.
+# 💻 DS learning repository
+This repository contains a collection of beginner-friendly DS projects, created purely for learning purposes.
 
 Each ```.ipynb``` file represents an independent project.
 ## How to run
